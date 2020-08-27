@@ -1,7 +1,7 @@
 # Exercise-01b-Guessing-Game
 Exercise for MSCH-C220, 27 August 2020
 
-This exercise is an opportunity for you to create a (simple) game in Python. I understand that this might feel intimidating, but we will take time in class (and elsewhere) to explain every line of this program and ways in which it might be improved.
+This exercise is an opportunity for you to create a (simple) game in Python. I understand that this might feel intimidating, but we will take time in class (and elsewhere) to explain every line of this program in a way that you can (hopefully) understand.
 
 First, Fork the repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01b-Guessing-Game. 
 
